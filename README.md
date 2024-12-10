@@ -16,10 +16,27 @@ els, with SAGEConv outperforming LightGCN in capturing user preferences.
 ## The Models that we used for our project were: 
 1. LightGCN
 
-
 ![Diagram of the project](lightgcn.png "Project Diagram")
 
 2. SageCONV
 
 ![Diagram of the project](sageConv.PNG "Project Diagram")
 
+
+
+Here were our results: 
+1. ROC_AUC
+   
+![Diagram of the project](ROC_AUC.png "Project Diagram")
+
+2. Training Loss
+ 
+![Diagram of the project](Training_loss.png "Project Diagram")
+
+3. Recall @ K vs K
+
+![Diagram of the project](Recall@k_vs_k.png "Project Diagram")
+
+4. Recall by Number of Epochs
+   
+![Diagram of the project](Recall@Kforepochs.png "Project Diagram")
