@@ -15,8 +15,11 @@ els, with SAGEConv outperforming LightGCN in capturing user preferences.
 
 ## The Models that we used for our project were: 
 1. LightGCN
+
+
 ![Diagram of the project](lightgcn.png "Project Diagram")
 
-3. SageCONV
+2. SageCONV
 
+![Diagram of the project](sageConv.PNG "Project Diagram")
 
