@@ -13,3 +13,9 @@ evaluation metrics, Recall@K and ROC-AUC, demonstrate the effectiveness of the p
 els, with SAGEConv outperforming LightGCN in capturing user preferences.
 
 
+## The Models that we used for our project were: 
+1. LightGCN
+
+2. SageCONV
+
+
